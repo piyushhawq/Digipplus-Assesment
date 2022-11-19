@@ -1,12 +1,13 @@
 # Digipplus Front End Assignment
 
 #### Tech stack: React & Tailwind
-Hosted Link :- https://piyushhawq.github.io/mini-ipod/
+Hosted Link :- https://piyushhawq.github.io/Assesment-gig/
 
-Normal mode preview :-
+Home Page :-
 
 ![Preview  of Home Page](https://raw.githubusercontent.com/piyushhawq/Images/main/Home%20page%20of%20digiplus.png)
 
+Payment Page :-
  
 ![Preview  of Payment Page](https://raw.githubusercontent.com/piyushhawq/Images/main/Payment%20page%20of%20digiplus.png)
 
